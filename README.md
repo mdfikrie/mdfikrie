@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mdfikrie-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-dzulfikri-0b58ba21b/)](https://www.linkedin.com/in/mdfikrie/) 
 [![Github Badge](https://img.shields.io/badge/-mdfikrie-grey?style=flat&logo=github&logoColor=white&link=https://github.com/#/)](https://www.github.com/mdfikrie/) 
 [![Instagram Badge](https://img.shields.io/badge/-mdfikrie-00acee?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/md_fikrie/)](https://www.instagram.com/mdfikrie/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=#/)](#/) <p align='left'>Full Stack Developer</p>
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=#/)](#/) <p align='left'>Flutter Developer</p>
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mdfikrie alt=mdfikrie /> </p>
 
